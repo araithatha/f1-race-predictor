@@ -1,0 +1,32 @@
+{
+  "built_at_utc": "2026-11-06T01:08:45Z",
+  "history_seasons": [
+    2014,
+    2026
+  ],
+  "timing_seasons": [
+    2023,
+    2026
+  ],
+  "row_counts": {
+    "dim_race": 271,
+    "dim_driver": 64,
+    "dim_constructor": 22,
+    "fact_result": 5523,
+    "fact_qualifying": 5502,
+    "fact_lap": 98590,
+    "fact_pit_stop": 9960,
+    "fact_practice": 4297
+  },
+  "api_calls": {
+    "jolpica": 0,
+    "openf1": 0,
+    "openmeteo": 0
+  },
+  "cache_hits": {
+    "jolpica": 409,
+    "openf1": 672,
+    "openmeteo": 271
+  },
+  "runtime_s": 6.8
+}

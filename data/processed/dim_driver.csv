@@ -1,0 +1,65 @@
+driver_id,driver_code,permanent_number,first_name,last_name,full_name,date_of_birth,nationality
+aitken,AIT,89,Jack,Aitken,Jack Aitken,1995-09-23,British
+albon,ALB,23,Alexander,Albon,Alexander Albon,1996-03-23,Thai
+alonso,ALO,14,Fernando,Alonso,Fernando Alonso,1981-07-29,Spanish
+antonelli,ANT,12,Andrea Kimi,Antonelli,Andrea Kimi Antonelli,2006-08-25,Italian
+arvid_lindblad,LIN,41,Arvid,Lindblad,Arvid Lindblad,2007-08-08,British
+bearman,BEA,87,Oliver,Bearman,Oliver Bearman,2005-05-08,British
+bortoleto,BOR,5,Gabriel,Bortoleto,Gabriel Bortoleto,2004-10-14,Brazilian
+bottas,BOT,77,Valtteri,Bottas,Valtteri Bottas,1989-08-28,Finnish
+brendon_hartley,HAR,28,Brendon,Hartley,Brendon Hartley,1989-11-10,New Zealander
+button,BUT,22,Jenson,Button,Jenson Button,1980-01-19,British
+chilton,CHI,4,Max,Chilton,Max Chilton,1991-04-21,British
+colapinto,COL,43,Franco,Colapinto,Franco Colapinto,2003-05-27,Argentine
+de_vries,DEV,21,Nyck,de Vries,Nyck de Vries,1995-02-06,Dutch
+doohan,DOO,7,Jack,Doohan,Jack Doohan,2003-01-20,Australian
+ericsson,ERI,9,Marcus,Ericsson,Marcus Ericsson,1990-09-02,Swedish
+gasly,GAS,10,Pierre,Gasly,Pierre Gasly,1996-02-07,French
+giovinazzi,GIO,99,Antonio,Giovinazzi,Antonio Giovinazzi,1993-12-14,Italian
+grosjean,GRO,8,Romain,Grosjean,Romain Grosjean,1986-04-17,French
+gutierrez,GUT,21,Esteban,Gutiérrez,Esteban Gutiérrez,1991-08-05,Mexican
+hadjar,HAD,6,Isack,Hadjar,Isack Hadjar,2004-09-28,French
+hamilton,HAM,44,Lewis,Hamilton,Lewis Hamilton,1985-01-07,British
+haryanto,HAR,88,Rio,Haryanto,Rio Haryanto,1993-01-22,Indonesian
+hulkenberg,HUL,27,Nico,Hülkenberg,Nico Hülkenberg,1987-08-19,German
+jolyon_palmer,PAL,30,Jolyon,Palmer,Jolyon Palmer,1991-01-20,British
+jules_bianchi,BIA,17,Jules,Bianchi,Jules Bianchi,1989-08-03,French
+kevin_magnussen,MAG,20,Kevin,Magnussen,Kevin Magnussen,1992-10-05,Danish
+kobayashi,KOB,10,Kamui,Kobayashi,Kamui Kobayashi,1986-09-13,Japanese
+kubica,KUB,88,Robert,Kubica,Robert Kubica,1984-12-07,Polish
+kvyat,KVY,26,Daniil,Kvyat,Daniil Kvyat,1994-04-26,Russian
+latifi,LAT,6,Nicholas,Latifi,Nicholas Latifi,1995-06-29,Canadian
+lawson,LAW,30,Liam,Lawson,Liam Lawson,2002-02-11,New Zealander
+leclerc,LEC,16,Charles,Leclerc,Charles Leclerc,1997-10-16,Monegasque
+lotterer,LOT,45,André,Lotterer,André Lotterer,1981-11-19,German
+maldonado,MAL,13,Pastor,Maldonado,Pastor Maldonado,1985-03-09,Venezuelan
+massa,MAS,19,Felipe,Massa,Felipe Massa,1981-04-25,Brazilian
+max_verstappen,VER,3,Max,Verstappen,Max Verstappen,1997-09-30,Dutch
+mazepin,MAZ,9,Nikita,Mazepin,Nikita Mazepin,1999-03-02,Russian
+merhi,MER,98,Roberto,Merhi,Roberto Merhi,1991-03-22,Spanish
+mick_schumacher,MSC,47,Mick,Schumacher,Mick Schumacher,1999-03-22,German
+nasr,NAS,12,Felipe,Nasr,Felipe Nasr,1992-08-21,Brazilian
+norris,NOR,1,Lando,Norris,Lando Norris,1999-11-13,British
+ocon,OCO,31,Esteban,Ocon,Esteban Ocon,1996-09-17,French
+perez,PER,11,Sergio,Pérez,Sergio Pérez,1990-01-26,Mexican
+piastri,PIA,81,Oscar,Piastri,Oscar Piastri,2001-04-06,Australian
+pietro_fittipaldi,FIT,51,Pietro,Fittipaldi,Pietro Fittipaldi,1996-06-25,Brazilian
+raikkonen,RAI,7,Kimi,Räikkönen,Kimi Räikkönen,1979-10-17,Finnish
+resta,DIR,40,Paul,di Resta,Paul di Resta,1986-04-16,British
+ricciardo,RIC,3,Daniel,Ricciardo,Daniel Ricciardo,1989-07-01,Australian
+rosberg,ROS,6,Nico,Rosberg,Nico Rosberg,1985-06-27,German
+rossi,RSS,53,Alexander,Rossi,Alexander Rossi,1991-09-25,American
+russell,RUS,63,George,Russell,George Russell,1998-02-15,British
+ryo_hirakawa,HIR,50,Ryo,Hirakawa,Ryo Hirakawa,1994-03-07,Japanese
+sainz,SAI,55,Carlos,Sainz,Carlos Sainz,1994-09-01,Spanish
+sargeant,SAR,2,Logan,Sargeant,Logan Sargeant,2000-12-31,American
+sirotkin,SIR,35,Sergey,Sirotkin,Sergey Sirotkin,1995-08-27,Russian
+stevens,STE,28,Will,Stevens,Will Stevens,1991-06-28,British
+stroll,STR,18,Lance,Stroll,Lance Stroll,1998-10-29,Canadian
+sutil,SUT,99,Adrian,Sutil,Adrian Sutil,1983-01-11,German
+tsunoda,TSU,22,Yuki,Tsunoda,Yuki Tsunoda,2000-05-11,Japanese
+vandoorne,VAN,2,Stoffel,Vandoorne,Stoffel Vandoorne,1992-03-26,Belgian
+vergne,VER,25,Jean-Éric,Vergne,Jean-Éric Vergne,1990-04-25,French
+vettel,VET,5,Sebastian,Vettel,Sebastian Vettel,1987-07-03,German
+wehrlein,WEH,94,Pascal,Wehrlein,Pascal Wehrlein,1994-10-18,German
+zhou,ZHO,24,Guanyu,Zhou,Guanyu Zhou,1999-05-30,Chinese

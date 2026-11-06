@@ -1,0 +1,10 @@
+feature_group,spearman_drop,n_features
+weekend,0.28400915561906265,10
+driver_form,0.06868968235067305,8
+team_form,0.01721730325058497,3
+practice,0.004327681477449196,3
+reliability,0.003014646816891364,2
+team_strategy,0.001970860881464498,3
+circuit,0.0,3
+weather,0.0,5
+context,0.0,2
